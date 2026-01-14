@@ -9,3 +9,6 @@ This site documents my hands-on practice, tools, labs, and concepts I am learnin
 - Lab-based learning notes
 - Practical cybersecurity concepts
 - Screenshots and command outputs
+## Sections
+
+- [🛠 Tools](./tools/)
