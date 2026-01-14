@@ -12,7 +12,9 @@ This page documents my hands-on practice with Nmap and the key techniques I lear
 
 ## Objective
 
-- Identify open ports and services
+- Identify open ports and services<img width="1920" height="1080" alt="Screenshot_2026-01-13_06_01_18" src="https://github.com/user-attachments/assets/6c81299e-88b1-4cd0-9a3f-f45f5fcf481e" />
+<img width="1920" height="1080" alt="Screenshot_2026-01-13_06_01_09" src="https://github.com/user-attachments/assets/4b9b11c4-2cec-45a4-8ecd-df664a33327b" />
+
 - Detect operating systems and service versions
 - Understand real-world reconnaissance workflows
 
