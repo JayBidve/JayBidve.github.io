@@ -9,7 +9,7 @@ This section contains practical tools and experiments related to cybersecurity, 
 ## Tool Categories
 
 ### 🔐 Cybersecurity Practice
-- Nmap Scanning
+- [Nmap Scanning](/tools/nmap-scanning/)
 - Directory Bruteforcing
 - Google Dorking
 - WAF Detection
