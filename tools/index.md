@@ -15,7 +15,7 @@ This section contains practical tools and experiments related to cybersecurity, 
 - [Google Dorking](/tools/google-dorking/)
 - [WAF Detection](/tools/waf-detection/)
 - [Exploit Databases](/tools/exploit-databases/)
-- [nessus](/tools/nessus/)
+- [Nessus](/tools/nessus/)
 
 
 
