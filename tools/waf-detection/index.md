@@ -55,7 +55,7 @@ This practice helped me understand that modern web applications are rarely unpro
 
 ### wafw00f Scan on Paytm.com & Amazon.com
 
-<img width="1920" height="1080" alt="Screenshot_2026-01-13_06_00_42" src="https://github.com/user-attachments/assets/efa070e8-d2eb-4ca9-95e2-52c821b1085c" />
+<img width="1200" height="720" alt="Screenshot_2026-01-13_06_00_42" src="https://github.com/user-attachments/assets/efa070e8-d2eb-4ca9-95e2-52c821b1085c" />
 
 
 *(Screenshots captured from my Kali Linux terminal)*
