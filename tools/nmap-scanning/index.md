@@ -59,9 +59,9 @@ This helped me understand how scanning techniques must be chosen carefully.
 
 ### Nmap Port Scan on amazon.com
 
-<img width="1920" height="1080" alt="Screenshot_2026-01-13_06_01_18" src="https://github.com/user-attachments/assets/29f8ce51-93ec-44ff-9f27-34440125b8f4" />
+<img width="1200" height="720" alt="Screenshot_2026-01-13_06_01_18" src="https://github.com/user-attachments/assets/29f8ce51-93ec-44ff-9f27-34440125b8f4" />
 
-<img width="1920" height="1080" alt="Screenshot_2026-01-13_06_01_09" src="https://github.com/user-attachments/assets/84f8ecef-538d-4988-9292-093119b3bd38" />
+<img width="1200" height="720" alt="Screenshot_2026-01-13_06_01_09" src="https://github.com/user-attachments/assets/84f8ecef-538d-4988-9292-093119b3bd38" />
 
 
 *(Screenshot captured from my Kali Linux terminal)*
