@@ -9,11 +9,14 @@ This section contains practical tools and experiments related to cybersecurity, 
 ## Tool Categories
 
 ### 🔐 Cybersecurity Practice
+🔐 Cybersecurity Practice
+
 - [Nmap Scanning](/tools/nmap-scanning/)
-- Directory Bruteforcing
-- Google Dorking
-- WAF Detection
-- Exploit Databases
+- [Directory Bruteforcing](/tools/directory-bruteforcing/)
+- [Google Dorking](/tools/google-dorking/)
+- [WAF Detection](/tools/waf-detection/)
+- [Exploit Databases](/tools/exploit-databases/)
+
 
 ### 🛠️ Utilities (Coming Soon)
 - Word Counter
