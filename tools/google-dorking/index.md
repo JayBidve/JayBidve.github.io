@@ -53,9 +53,9 @@ inurl:admin
 
 ### Google Dorking Result
 
-<img width="3420" height="2224" alt="Image 16-01-26 at 6 55 PM" src="https://github.com/user-attachments/assets/f973f446-86a0-4442-b976-53e491522f78" />
+<img width="1200" height="720" alt="Image 16-01-26 at 6 55 PM" src="https://github.com/user-attachments/assets/f973f446-86a0-4442-b976-53e491522f78" />
 
-<img width="3420" height="2224" alt="Image 16-01-26 at 6 56 PM" src="https://github.com/user-attachments/assets/492b01a7-3f29-4a87-8548-a7ae4d93fb59" />
+<img width="1200" height="720" alt="Image 16-01-26 at 6 56 PM" src="https://github.com/user-attachments/assets/492b01a7-3f29-4a87-8548-a7ae4d93fb59" />
 
 
 *(Screenshot captured from browser)*
