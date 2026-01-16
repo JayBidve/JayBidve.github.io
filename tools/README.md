@@ -9,3 +9,4 @@ This section documents the cybersecurity tools and techniques I have practiced, 
 - [Directory Bruteforcing](dir-bruteforce.md)
 - [Google Dorking](google-dorking.md)
 - [Exploit Database & GHDB](exploit-db.md)
+- [nessus](nessus.md)
