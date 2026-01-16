@@ -11,4 +11,5 @@ This site documents my hands-on practice, tools, labs, and concepts I am learnin
 - Screenshots and command outputs
 ## Sections
 
-- [🛠 Tools](./tools/)
+- 🔧 [Tools](/tools/)
+
