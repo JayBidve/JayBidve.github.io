@@ -10,6 +10,7 @@ This site documents my hands-on practice, tools, labs, and concepts I am learnin
 - Practical cybersecurity concepts
 - Screenshots and command outputs
 ## Sections
+Click Below for more 👇
 
 - 🔧 [Tools](/tools/)
 
