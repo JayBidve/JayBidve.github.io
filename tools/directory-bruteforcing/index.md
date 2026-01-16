@@ -1,19 +1,68 @@
+---
+title: Directory Bruteforcing
+description: Practical exploration of directory and file enumeration techniques using common web reconnaissance tools.
+---
+
 # Directory Bruteforcing
 
-## Overview
-Directory bruteforcing is used to discover hidden files and directories on a web server by systematically testing common paths.
+## Introduction
 
-## Tools Used
-- dirsearch
-- gobuster
-- feroxbuster
+I practiced **directory bruteforcing** to understand how hidden files and directories are discovered on web servers.
+This technique is commonly used during web application testing to find exposed endpoints.
 
-## Example Commands
+---
+
+## What is Directory Bruteforcing?
+
+Directory bruteforcing is a technique where predefined wordlists are used to discover hidden directories and files on a web server.
+
+---
+
+## Why Directory Bruteforcing Matters
+
+Many web applications expose sensitive paths unintentionally, such as:
+
+* Admin panels
+* Backup files
+* Configuration folders
+
+Finding these can lead to serious security issues.
+
+---
+
+## My Hands-On Practice (Kali Linux)
+
+I practiced directory enumeration using tools like **dirb** and **gobuster** on test targets.
+
+### Commands Used
+
 ```bash
-gobuster dir -u www.microsoft.com -w wordlist.txt
+dirb http://target.com
+gobuster dir -u http://target.com -w wordlist.txt
 ```
-What I Learned
 
-How hidden endpoints can expose sensitive functionality
-Importance of proper access controls
-Risks of directory listing and misconfigurations
+---
+
+## Observations
+
+* Different wordlists produce different results
+* HTTP status codes help identify valid paths
+* Some servers block aggressive scanning
+* Rate limiting and WAFs affect results
+
+---
+
+
+## Key Learnings
+
+* Importance of wordlist selection
+* Understanding HTTP response codes
+* Ethical scanning practices
+* Avoiding unnecessary noise during testing
+
+---
+
+## Conclusion
+
+Directory bruteforcing taught me how misconfigurations can expose hidden parts of web applications and why proper access control is essential.
+
