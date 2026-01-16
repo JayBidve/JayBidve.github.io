@@ -9,7 +9,6 @@ This section contains practical tools and experiments related to cybersecurity, 
 ## Tool Categories
 
 ### 🔐 Cybersecurity Practice
-🔐 Cybersecurity Practice
 
 - [Nmap Scanning](/tools/nmap-scanning/)
 - [Directory Bruteforcing](/tools/directory-bruteforcing/)
