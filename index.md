@@ -13,4 +13,4 @@ This site documents my hands-on practice, tools, labs, and concepts I am learnin
 Click Below for more 👇
 
 - 🔧 [Tools](/tools/)
-- ⌨️ [Projects](/projects/)
+- 📁 [Projects](projects/)
