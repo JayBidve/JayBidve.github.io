@@ -1,8 +1,8 @@
 ← [Back to Projects](../)
 
 ---
-title: "Python Keylogging – Cybersecurity Learning Project"
-description: "An educational Python project to study keylogging behavior for cybersecurity awareness and defensive learning."
+title: Python Keylogging – Cybersecurity Learning Project
+description: An educational Python project to study keylogging behavior for cybersecurity awareness and defensive learning.
 ---
 
 <div align="center">
