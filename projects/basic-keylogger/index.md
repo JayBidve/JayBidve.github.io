@@ -1,5 +1,3 @@
-← [Back to Projects](../)
-
 ---
 title: Python Keylogging – Cybersecurity Learning Project
 description: An educational Python project to study keylogging behavior for cybersecurity awareness and defensive learning.
@@ -127,7 +125,7 @@ Studied to understand structured data transmission mechanisms.
 🎥 Demo Recording
 
 
-https://github.com/user-attachments/assets/a9c08853-6c3d-47e9-b96e-b8b655595216
+👉 **[Click here to view project output](https://github.com/user-attachments/assets/a9c08853-6c3d-47e9-b96e-b8b655595216)**
 
 
 
